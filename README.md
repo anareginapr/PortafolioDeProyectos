@@ -36,7 +36,7 @@ Hoy combino ese "ADN de mejora continua" con el poder del análisis de datos. Me
 
 ## 🚀 Proyectos Destacados
 
-*(Aquí irás enlazando las carpetas de tus proyectos cuando los subas)*
+*(Ir enlazando las carpetas de proyectos cal subirlas)*
 
 * **📂 [Análisis de Funnel de Conversión y Retención por Cohortes](./)**
   * *Descripción:* Análisis end-to-end sobre el comportamiento de usuarios, conversión en plataforma y tasa de retención usando SQL y Python.
@@ -45,4 +45,4 @@ Hoy combino ese "ADN de mejora continua" con el poder del análisis de datos. Me
 
 ---
 
-📫 **¿Te gustaría colaborar o hablar de datos?** ¡Conéctate conmigo a través de [LinkedIn](https://www.linkedin.com/in/tu-perfil)!
+📫 **¿Te gustaría colaborar o hablar de datos?** ¡Conéctate conmigo a través de [LinkedIn](https://www.linkedin.com/in/anaregina97)!
