@@ -38,8 +38,9 @@ Hoy combino ese "ADN de mejora continua" con el poder del análisis de datos. Me
 
 *(Ir enlazando las carpetas de proyectos cal subirlas)*
 
-* **📂 [Análisis de Funnel de Conversión y Retención por Cohortes](./)**
-  * *Descripción:* Análisis end-to-end sobre el comportamiento de usuarios, conversión en plataforma y tasa de retención usando SQL y Python.
+* **📂 [Análisis de Funnel de Conversión y Retención por Cohortes](https://github.com/anareginapr/Dashboard-de-an-lisis-comercial-inmobiliario)**
+  * *Descripción:* Diagnóstico comercial interactivo en Power BI para Andes Capital Real Estate, analizando 8,500 ventas a través de 3 vistas enfocadas en KPIs ejecutivos, comportamiento de canales y retenición por cohortes. A través de un modelo de datos optimizado y medidas DAX avanzadas, la solución identifica el volumen por tipo de propiedad y la tasa de recompra para respaldar la toma de decisiones estratégicas.
+    
 * **📂 [Título de tu segundo proyecto](./)**
   * *Descripción:* Breve resumen de lo que resolviste en 1 o 2 líneas.
 
