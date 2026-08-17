@@ -36,8 +36,11 @@ Hoy combino ese "ADN de mejora continua" con el poder del análisis de datos, **
 
 ## 🚀 Proyectos Destacados
 
+* **📂 [Mercado libre: Funnel & Retention Analysis](https://github.com/anareginapr/MercadoLibre-Funnel-Retention-Analysis)**
+  * *Descripción:* Análisis del recorrido de usuarios para identificar puntos críticos de abandono y evaluar patrones de retención. El análisis encontró una caída significativa entre la selección de producto y el agregado al carrito, ádemas de diferencias de conversión entre países y una disminución marcada de la retención hacia D28. [Ver proyecto](https://github.com/anareginapr/MercadoLibre-Funnel-Retention-Analysis)
+
 * **📂 [Power BI Commercial Analytics: KPIs, Segmentación y Análisis de Cohortes](https://github.com/anareginapr/Dashboard-de-an-lisis-comercial-inmobiliario)**
-  * *Descripción:* Diagnóstico comercial interactivo en Power BI para Andes Capital Real Estate, analizando 8,500 ventas a través de 3 vistas enfocadas en KPIs ejecutivos, comportamiento de canales y retenición por cohortes. A través de un modelo de datos optimizado y medidas DAX avanzadas, la solución identifica el volumen por tipo de propiedad y la tasa de recompra para respaldar la toma de decisiones estratégicas.
+  * *Descripción:* Diagnóstico comercial interactivo en Power BI para Andes Capital Real Estate, analizando 8,500 ventas a través de 3 vistas enfocadas en KPIs ejecutivos, comportamiento de canales y retenición por cohortes. A través de un modelo de datos optimizado y medidas DAX avanzadas, la solución identifica el volumen por tipo de propiedad y la tasa de recompra para respaldar la toma de decisiones estratégicas. [Ver proyecto](https://github.com/anareginapr/Dashboard-de-an-lisis-comercial-inmobiliario)
 
 ---
 
