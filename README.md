@@ -19,7 +19,7 @@ Mi objetivo es demostrar cómo aplico el ciclo completo de datos: desde la extra
 
 Crecí profesionalmente en el sector industrial dentro de las áreas de **gestión de proyectos, producción y excelencia operativa**. Esa experiencia me dio una sólida intuición para entender el negocio desde el terreno y detectar cuellos de botella en la operación.
 
-Hoy combino ese "ADN de mejora continua" con el poder del análisis de datos. Me especializo en la transformación de datos operativos y en el diseño de visualizaciones que simplifican lo complejo. **Mi motivación es hacer que la información fluya, se entienda y se traduzca en decisiones estratégicas de alto impacto.**
+Hoy combino ese "ADN de mejora continua" con el poder del análisis de datos, **enfocándome en trasnformar información operativa en visualizaciones claras y ánalisis que faciliten la toma de decisiones.**
 
 ---
 
@@ -27,7 +27,7 @@ Hoy combino ese "ADN de mejora continua" con el poder del análisis de datos. Me
 
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Lenguajes de Programación** | `Python` (Pandas, NumPy, Matplotlib, Seaborn), `SQL` (PostgreSQL / MySQL) |
+| **Lenguajes de Programación** | `Python` (Pandas, NumPy, Matplotlib), `SQL` |
 | **Visualización & BI** | `Power BI`, Dashboards Interactivos |
 | **Análisis Tradicional** | `Excel` (Avanzado), `Google Sheets` |
 | **Metodologías** | Mejora Continua, Gestión de Proyectos, Análisis de Cohortes & Funnels |
